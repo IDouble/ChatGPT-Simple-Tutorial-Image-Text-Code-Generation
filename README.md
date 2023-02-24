@@ -33,4 +33,4 @@ ChatGPT can also answer questions for you that you normally would need to search
 
 ![ChatGPT Simple Tutorial Image Text Generation](Images/What-is-IOTA.png)
 
-ChatGPT is based on OpenAI, but be careful, the data that ChatGPTs suses mainly consists from what has been written on the Internet and can also give you false or unproven informations back.
+ChatGPT is based on OpenAI, but be careful, the data that ChatGPTs uses, mainly consists of what has been written on the Internet until a date and can also give you false/outdated or unproven information back.
