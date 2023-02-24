@@ -19,10 +19,18 @@ You will act as if you were an image engine returning photos based on my search 
 
 ![ChatGPT Simple Tutorial Image Text Generation](Images/ChatGPT-Generating-a-Image.png)
 
+Just paste this Input into ChatGPT or something similar and you should get a result/output like this:
+
 ![ChatGPT Simple Tutorial Image Text Generation](Images/ChatGPT-Image-Generation.png)
 
 ## 🖼️ ChatGPT Simple Text Generation 🤖
 
+ChatGPT is very useful, it can help you to write a good and short description for your GitHub profile.
+
 ![ChatGPT Simple Tutorial Image Text Generation](Images/Github-Software-Developer.png)
 
+ChatGPT can also answer questions for you that you normally would need to search on the internet.
+
 ![ChatGPT Simple Tutorial Image Text Generation](Images/What-is-IOTA.png)
+
+ChatGPT is based on OpenAI, but be careful, the data that ChatGPTs suses mainly consists from what has been written on the Internet and can also give you false or unproven informations back.
