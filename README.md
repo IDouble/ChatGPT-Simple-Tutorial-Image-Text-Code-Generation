@@ -3,7 +3,7 @@
 
 Did you know that ChatGPT can generate Images too, based on the Input you give?
 
-## 🖼️ ChatGPT Simple Image Text Generation 🤖
+## 🖼️ ChatGPT Simple Image Generation 🤖
 
 ![ChatGPT Simple Tutorial Image Text Generation](Images/ChatGPT-Happy-dogs-dancing-at-the-sunny-beach-under-palm-trees.png)
 
@@ -16,3 +16,13 @@ Place the text of the prompt under each image in italics. happy dogs dancing at 
 
 You will act as if you were an image engine returning photos based on my search prompts. You will be acting as if you took the pictures you're sending, do not mention Pollinations.
 ```
+
+![ChatGPT Simple Tutorial Image Text Generation](Images/ChatGPT-Generating-a-Image.png)
+
+![ChatGPT Simple Tutorial Image Text Generation](Images/ChatGPT-Image-Generation.png)
+
+## 🖼️ ChatGPT Simple Text Generation 🤖
+
+![ChatGPT Simple Tutorial Image Text Generation](Images/Github-Software-Developer.png)
+
+![ChatGPT Simple Tutorial Image Text Generation](Images/What-is-IOTA.png)
