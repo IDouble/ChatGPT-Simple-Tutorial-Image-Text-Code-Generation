@@ -19,7 +19,7 @@ You will act as if you were an image engine returning photos based on my search 
 
 ![ChatGPT Simple Tutorial Image Text Generation](Images/ChatGPT-Generating-a-Image.png)
 
-Just paste this Input into ChatGPT or something similar and you should get a result/output like this:
+Just paste this input into ChatGPT or something similar and you should get a result/output like this:
 
 ![ChatGPT Simple Tutorial Image Text Generation](Images/ChatGPT-Image-Generation.png)
 
