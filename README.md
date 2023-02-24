@@ -1,5 +1,5 @@
 # 🖼️ ChatGPT Simple Tutorial Image Text Code Generation 🤖
-🖼️ A simple ChatGPT AI Tutorial on how to generate images/text and its limitations 🤖
+🖼️ A simple ChatGPT AI Tutorial on how to generate images/text/code and its limitations 🤖
 
 Did you know that ChatGPT can generate images too, based on the input you give?
 
