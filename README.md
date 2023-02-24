@@ -1,7 +1,7 @@
 # 🖼️ ChatGPT Simple Tutorial Image Text Generation 🤖
-🖼️ A simple ChatGPT AI Tutorial on how to generate Images/Text and its limitations 🤖
+🖼️ A simple ChatGPT AI Tutorial on how to generate images/text and its limitations 🤖
 
-Did you know that ChatGPT can generate Images too, based on the Input you give?
+Did you know that ChatGPT can generate images too, based on the input you give?
 
 ## 🖼️ ChatGPT Simple Image Generation 🤖
 
@@ -33,4 +33,4 @@ ChatGPT can also answer questions for you that you normally would need to search
 
 ![ChatGPT Simple Tutorial Image Text Generation](Images/What-is-IOTA.png)
 
-ChatGPT is based on OpenAI, but be careful, the data that ChatGPTs uses, mainly consists of what has been written on the Internet until a date and can also give you false/outdated or unproven information back.
+ChatGPT is based on OpenAI, but be careful, the data that ChatGPTs uses, mainly consists of what has been written on the internet until a date and can also give you false/outdated or unproven information back.
