@@ -60,3 +60,5 @@ In practice, when a user inputs text into a system powered by ChatGPT, the input
 During training, the neural network is fed a large corpus of text data and is tasked with predicting the next word in a sentence, given the preceding context. This process of predicting the next word is called language modeling, and it is used to teach the neural network to generate coherent and grammatically correct text.
 
 Once ChatGPT has been trained on a large corpus of text data, it can be used to generate new text based on an input prompt or to answer questions based on its understanding of the context and meaning of the input. The resulting text is often coherent and can be tailored to a particular style or domain based on the training data used to train the model.
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
